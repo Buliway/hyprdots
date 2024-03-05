@@ -1,6 +1,8 @@
     "clock": {
-        "format": "{:%I:%M %p}",
-        "format-alt": "{:%R 󰃭 %d·%m·%y}",
+        "format": "{:%R 󰃭 %d·%m·%y}",
+        "format-alt": "{:%I:%M %p}",
+        "timezone": "Europe/Moscow",
+        "locale": "ru_RU.UTF-8",
         "tooltip-format": "<tt>{calendar}</tt>",
         "calendar": {
             "mode": "month",
