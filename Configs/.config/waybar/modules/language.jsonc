@@ -1,5 +1,6 @@
     "hyprland/language": {
-        "format": "{short} {variant}",
+        "format": "{}",
+        "format-en": "EN",
+        "format-ru": "RU",
         "on-click": "~/.config/hypr/scripts/keyboardswitch.sh",
     },
-
